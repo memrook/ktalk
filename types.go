@@ -1,6 +1,6 @@
 // Контур.Толк API - https://kontur.renote.team/doc/gmVrwgTNW
 
-package main
+package ktalk
 
 import "time"
 
