@@ -1,0 +1,2 @@
+GET https://dholding.ktalk.ru/api/users/scan?top=10
+X-Auth-Token: {{token}}
